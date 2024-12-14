@@ -1,0 +1,39 @@
+:root {
+  --main: #75140c !important;
+  --main-lighter: #e6d5bf !important;
+  --second: #70a6b1 !important;
+  --second-lighter: #e4dfd9 !important;
+  --second-light: #e6d5bf !important;
+  --gray: #f4eee5 !important;
+  --gray-2: #eff5f6 !important;
+  --gray-lighter: #f4eee550 !important;
+  --black: #385469 !important;
+  --black-lighter: #385469b0 !important;
+  --white: #ffffff !important;
+  --red: #f86a6a !important;
+  --yellow: #f8bc26 !important;
+  --green: #b0b865 !important;
+  --font-main: "Source Sans Pro" !important;
+  --font-headers: "Capriola" !important;
+  --font-subheaders: "Love Ya Like A Sister" !important;
+}
+.lte-page-header {
+  background-image: url(../images/header_inner_1000p-1.jpg) !important;
+}
+#content-sidebar .widget_search,
+#content-sidebar .widget_product_search {
+  background-image: url(../images/search-bg.png) !important;
+}
+.woocommerce-MyAccount-navigation,
+.widget-area {
+  background-image: url(../images/sidebar-bg.png) !important;
+}
+#nav-wrapper.lte-layout-transparent .lte-navbar.dark.affix {
+  background-color: rgba(0, 0, 0, 0.75) !important;
+}
+.lte-logo img {
+  max-height: 150px !important;
+}
+.lte-layout-desktop-center-transparent .lte-navbar .lte-logo img {
+  max-height: 48px !important;
+}
