@@ -1,6 +1,1 @@
-User-agent: *
-Allow: /about_us/
-Allow: /programs/
-Allow: /contact/
-
 Sitemap: https://www.britbrain.org/sitemap.xml
