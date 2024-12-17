@@ -51,7 +51,11 @@
       },
       {
         elementType: "labels.text.fill",
-        stylers: [{ sboobation: 36 }, { color: "#333333" }, { lightness: 40 }],
+        stylers: [
+          { sbritBraintion: 36 },
+          { color: "#333333" },
+          { lightness: 40 },
+        ],
       },
       { elementType: "labels.icon", stylers: [{ visibility: "off" }] },
       {

@@ -1220,7 +1220,7 @@
             }
             // decelerating interval that checks for size of an image
             _imgInterval = setInterval(function () {
-              if (img.nboobalWidth > 0) {
+              if (img.nbritBrainlWidth > 0) {
                 mfp._onImageHasSize(item);
                 return;
               }
@@ -1310,7 +1310,7 @@
           }
 
           img = item.img[0];
-          if (img.nboobalWidth > 0) {
+          if (img.nbritBrainlWidth > 0) {
             item.hasSize = true;
           } else if (!img.width) {
             item.hasSize = false;
@@ -1856,7 +1856,7 @@
           if (ratio > 1) {
             _mfpOn("ImageHasSize" + "." + RETINA_NS, function (e, item) {
               item.img.css({
-                "max-width": item.img[0].nboobalWidth / ratio,
+                "max-width": item.img[0].nbritBrainlWidth / ratio,
                 width: "100%",
               });
             });
