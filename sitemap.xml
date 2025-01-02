@@ -9,73 +9,48 @@
 
 <url>
   <loc>https://britbrain.org/</loc>
-  <lastmod>2024-12-14T17:52:54+00:00</lastmod>
+  <lastmod>2025-01-02T15:49:28+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://britbrain.org/preschool</loc>
-  <lastmod>2024-12-14T17:52:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://britbrain.org/nanny</loc>
-  <lastmod>2024-12-14T17:52:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://britbrain.org/education_agency</loc>
-  <lastmod>2024-12-14T17:52:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://britbrain.org/about_us</loc>
-  <lastmod>2024-12-14T17:52:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://britbrain.org/testimonials</loc>
-  <lastmod>2024-12-14T17:52:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://britbrain.org/gallery</loc>
-  <lastmod>2024-12-14T17:52:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://britbrain.org/contacts</loc>
-  <lastmod>2024-12-14T17:52:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>./contacts.html</loc>
-  <lastmod>2024-12-14T17:52:54+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
   <loc>https://britbrain.org/index.html</loc>
-  <lastmod>2024-12-14T17:52:54+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-01-02T15:49:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://britbrain.org/preschool.html</loc>
-  <lastmod>2024-12-14T17:52:54+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-01-02T15:49:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://britbrain.org/gallery.html</loc>
-  <lastmod>2024-12-14T17:52:54+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://britbrain.org/nanny.html</loc>
+  <lastmod>2025-01-02T15:49:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://britbrain.org/education_agency.html</loc>
-  <lastmod>2024-12-14T17:52:54+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-01-02T15:49:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://britbrain.org/about_us.html</loc>
+  <lastmod>2025-01-02T15:49:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://britbrain.org/testimonials.html</loc>
-  <lastmod>2024-12-14T17:52:54+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-01-02T15:49:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://britbrain.org/gallery.html</loc>
+  <lastmod>2025-01-02T15:49:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://britbrain.org/contacts.html</loc>
+  <lastmod>2025-01-02T15:49:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
