@@ -333,8 +333,8 @@ template {
 }
 /* 2. Global classes */
 body {
-  color: #385469;
-  color: var(--black);
+  color: #9f8c76;
+  /* color: var(--black); */
   background-color: #ea4a34;
   background-color: var(--white);
   overflow-x: hidden;
