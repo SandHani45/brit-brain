@@ -59,6 +59,9 @@ Use it to make something cool, have fun, and share what you've learned with othe
   --gray-border: #e9e9e9;
   --black-dark: #1f242c;
 }
+#lte-nav-wrapper{
+  background: #fff8ed !important;
+}
 /*
   1. CSS Reset
 */
